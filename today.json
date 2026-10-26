@@ -1,0 +1,36 @@
+{
+ "version": "v2",
+ "content": {
+  "type": "instagram",
+  "messages": [
+   {
+    "type": "text",
+    "text": "마이크론 시황 정리 카드예요. (20261023 종가 기준)\n이미지는 길게 눌러 저장해 두세요."
+   },
+   {
+    "type": "image",
+    "url": "https://madboykang-cyber.github.io/moneyhabits-dm/cards/20261023/01.png"
+   },
+   {
+    "type": "image",
+    "url": "https://madboykang-cyber.github.io/moneyhabits-dm/cards/20261023/02.png"
+   },
+   {
+    "type": "image",
+    "url": "https://madboykang-cyber.github.io/moneyhabits-dm/cards/20261023/03.png"
+   },
+   {
+    "type": "image",
+    "url": "https://madboykang-cyber.github.io/moneyhabits-dm/cards/20261023/04.png"
+   },
+   {
+    "type": "image",
+    "url": "https://madboykang-cyber.github.io/moneyhabits-dm/cards/20261023/05.png"
+   },
+   {
+    "type": "text",
+    "text": "매수·매도 추천이 아니라 사실 정리예요.\n내일 종목도 받고 싶으면 팔로우 유지해 주세요."
+   }
+  ]
+ }
+}
